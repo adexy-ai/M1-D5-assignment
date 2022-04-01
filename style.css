@@ -1,4 +1,33 @@
-h1 {
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: aqua;
+body {
+  background-color: azure;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+.header {
+  
+}
+
+.general__info {
+
+}
+
+.detail_link {
+
+}
+
+.contact__skill__language {
+
+}
+
+#image__edit {
+  border-radius: 25%;
+  width: 10px;
+  height: 10px;
+
+}
+
+h2 { 
+  font-weight: bold;
+  font-size: x-large;
+}
+
+
