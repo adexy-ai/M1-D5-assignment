@@ -1,72 +1,17 @@
-body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 25%;
-    /* margin-right: 25%; */
-}
-h1 {
-  font-size: 22pt;
-}
-h2 {
-  font-size: 20pt;
-}
-h3 {
-  font-size: 16pt;
-}
-p {
-  font-weight: lighter;
-}
-#image__edit {
-  background-image: none;
+#image_{
   height: 300px;
-  
-}
-.header {
-  position: absolute;
-  right: 10%;
-  top: 5%;
-  
-}
-.image_container {
-  background-color: antiquewhite;
-}
-.general__info {
-  position: fixed;
-  
-}
-.link {
-  position: relative;
-  top: 10;
-  margin-right: 20;
-  
-}
-.contact__skill__language {
-  position: fixed;
-  right: 25%;
-  top: 50%;
-
-}
-#profile__adjust {
-    /* margin-left: 25%; */
-    margin-right: 25%;
-}
-.link {
-  color: green;
+  width: 200px;
 }
 
-.general__info {
-  background-color: aliceblue;
-  box-shadow: azure;
-  background-image: -o-linear-gradient();
-  box-shadow: 0.2;
+div.header{
+  background-color: blueviolet;
+  height: 300px;
 }
 
-.more__feature {
-  background-image: -o-linear-gradient();
-  background-color: azure;
-  box-shadow: 0.2;
+.alignment{
+  text-align: right;
+  margin-top: 5%;
 }
-
-
 
 
 
